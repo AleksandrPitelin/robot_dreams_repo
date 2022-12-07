@@ -68,7 +68,7 @@ print(d)
 #    print ("min")
 #elif a > 56:
 #    print("max")
-#elif a == 56:
+#else a == 56:
 #    print("BINGO!!!")
 
 #--------------------------------#
